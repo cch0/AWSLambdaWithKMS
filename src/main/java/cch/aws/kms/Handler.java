@@ -51,7 +51,7 @@ public class Handler {
         Response response = new Response();
         response.setDateTime(simpleDateFormat.format(new Date()));
         response.setDecrypted(decrypted);
-        
+
         return response;
     }
 
