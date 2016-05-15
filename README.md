@@ -1,1 +1,1 @@
-# AWSLambdaWithKMS
+# An AWS Lambda to demonstrate round trip encryption without having to specify AWS credentials in the Lambda code.
